@@ -20,4 +20,6 @@ Notebook.
 The first half of the video is setting up the time domain signal, and the last
 half is the FFT portion.
 
-![](media/3c67737524c515ece9002d2545d69263.png)
+Click on the image below to see the video.
+
+![](media/543b215f0ba7a54f6578bdd905dce7f4.png)
