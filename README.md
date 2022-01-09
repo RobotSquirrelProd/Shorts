@@ -56,3 +56,14 @@ oscilloscope into a Jupyter notebook using Python.
 Click this [link](https://youtu.be/MnUDdVfZzA4) to view the video.
 
 ![](media/8faa0e4a4da325550b698dbce5093e6d.png)
+
+## High-Resolution Spectral Analysis using a Rigol D1054Z and Jupyter/Python
+
+This tutorial shows how to import screen-resolution and high-resolution signals
+from the Rigol DS1054Z oscilloscope into a Jupyter notebook using Python. The
+tutorial also shows how to calculate and plot the single-sided FFT for each
+signal type.
+
+Click [here](https://youtu.be/QXV85j5VwBE) to view the video.
+
+![](media/02be46b199afa07a31387f60e8c44c51.png)
