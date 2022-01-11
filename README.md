@@ -20,7 +20,9 @@ Notebook.
 The first half of the video is setting up the time domain signal, and the last
 half is the FFT portion.
 
-Click on [this link](https://youtu.be/8KWPlno6VP0) to see the video.
+Click on [this link](https://youtu.be/8KWPlno6VP0) to see the video and
+[here](https://robotsquirrelproductions.com/spectral-analysis-in-python/) for
+the blog describing the code in more detail.
 
 ![](media/debc44be60a13156f36243c4677b3dbe.png)
 
@@ -44,7 +46,9 @@ Click [here](https://youtu.be/6wlhY3gTG3g) to view the video.
 This tutorial shows how to import a comma-separated values (CSV) file into
 Jupyter using Python and visualize the data with the matplotlib library.
 
-Click [here](https://youtu.be/y43_o2OnI68) to view the video.
+Click [here](https://youtu.be/y43_o2OnI68) to view the video and
+[here](https://robotsquirrelproductions.com/plotting-csv-data-in-python-with-pandas-and-matplotlib/)
+for the blog describing the code in more detail.
 
 ![](media/d9214658ec1d227187e41a337917ff6f.png)
 
