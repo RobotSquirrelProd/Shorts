@@ -71,3 +71,12 @@ signal type.
 Click [here](https://youtu.be/QXV85j5VwBE) to view the video.
 
 ![](media/02be46b199afa07a31387f60e8c44c51.png)
+
+## High-Resolution Spectral Analysis Using a Rigol D1054Z and Jupyter/Python
+
+This tutorial teaches you to time slice a video using
+[MATLAB](https://www.mathworks.com/products/matlab.html) and [Adobe After
+Effects](https://www.adobe.com/products/aftereffects.html) tools to develop an
+animation and pixel history (a time slice) through a video. I hope you enjoy it!
+
+![](media/faf3e540b76f926dbdea3b9b1bf5c4c5.png)
