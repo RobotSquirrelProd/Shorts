@@ -97,3 +97,14 @@ a tutorial
 [here](https://robotsquirrelproductions.com/time-slice-a-video-using-python-and-adobe-after-effects/).
 
 ![](media/faf3e540b76f926dbdea3b9b1bf5c4c5.png)
+
+# Using Python to understand motion/video aliasing
+
+This video uses [Python](https://www.python.org/) and to develop an animation
+showing how video or motion aliasing can distort your footage.
+
+Click this [link](https://youtu.be/7EJchzREP5M) to view the video. There is a
+website with more information
+[here](https://robotsquirrelproductions.com/vibration-analysis-terminology/#glossary-aliasing).
+
+![](media/5dc7c8753f3916d05f53db5506275e26.png)
