@@ -108,3 +108,16 @@ website with more information
 [here](https://robotsquirrelproductions.com/vibration-analysis-terminology/#glossary-aliasing).
 
 ![](media/5dc7c8753f3916d05f53db5506275e26.png)
+
+# Python Plotting for Adobe Illustrator
+
+If you have tried editing a [matplotlib](https://matplotlib.org/) plot output in
+[Adobe Illustrator](https://www.adobe.com/products/illustrator.html), then you
+know how frustrating it can be. This tutorial shows you how to overcome
+matplotlib challenges and produce beautiful plots in Adobe Illustrator.
+
+Click this [link](https://youtu.be/11XQOMyUZ8M) to view the video. There is a
+website with more information
+[here](https://robotsquirrelproductions.com/python-plotting-for-adobe-illustrator/).
+
+![](media/e3e96e7967bb02281e78fb1fc71f3260.png)
