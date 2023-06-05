@@ -121,3 +121,18 @@ website with more information
 [here](https://robotsquirrelproductions.com/python-plotting-for-adobe-illustrator/).
 
 ![](media/e3e96e7967bb02281e78fb1fc71f3260.png)
+
+# Using Python and pandas to create a time series for CSV data
+
+In a [previous
+post](https://robotsquirrelproductions.com/plotting-csv-data-in-python-with-pandas-and-matplotlib/),
+I showed you how to import a comma separated values (CSV) file into Python using
+Pandas. Then we visualized the data with matplotlib. In this post, we will
+create a time series with Pandas. By the time we finish, the Pandas dataframe
+will have both time series and DateTime values.
+
+Click this [link](https://youtu.be/GIkwRXmUl2U) to view the video. There is a
+website with more information
+[here](https://robotsquirrelproductions.com/create-time-series-with-pandas/).
+
+![](media/14c4b204106459539047d8767cb9acc7.png)
