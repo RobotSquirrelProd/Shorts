@@ -1,3 +1,7 @@
+# Intermediate plot output files
+*.pdf
+*.png
+*.svg
 
 .ipynb_checkpoints/
 ~$README.md
