@@ -1,3 +1,4 @@
+jupyter notebook
 REM ---------------------------------------------------------------------------------
 REM This configuration is when Anaconda is installed for all users (not recommended!)
 REM ---------------------------------------------------------------------------------
